@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>🧮 <b>Mathematician</b> and 💻 <b>Software Engineer</b></h3>
-  <p>Passionate about exploring the intersection of mathematics and technology</p>
+  <p><i>Passionate about exploring the intersection of mathematics and technology</i></p>
 
   <div align="center">
     <table>
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true&theme=radical" alt="Carlos's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true&theme=default&title_color=4AF626&text_color=4AF626&border_color=4AF626&icon_color=4AF626&bg_color=0A0A0A00" alt="Carlos's GitHub stats" />
   </a>
 </p>
 
