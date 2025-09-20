@@ -1,4 +1,4 @@
-# Carlos Espinoza Curto
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4AF626&background=0A0A0A00&width=435&lines=Carlos+Espinoza+Curto)](https://git.io/typing-svg)
 
 Mathematician and Software Engineer. Interested in C++ development, networking and distributed systems.
 
