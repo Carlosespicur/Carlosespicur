@@ -1,6 +1,27 @@
-# Carlos Espinoza Curto
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4AF626&background=0A0A0A00&width=435&lines=Carlos+Espinoza+Curto)](https://git.io/typing-svg)
 
-Mathematician and Software Engineer. Interested in C++ development, networking and distributed systems.
+<div align="center">
+  <h3>🧮 <b>Mathematician</b> and 💻 <b>Software Engineer</b></h3>
+  <p>Passionate about exploring the intersection of mathematics and technology</p>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center"><b>🔷 C++ Development</b></td>
+        <td align="center"><b>🔌 Networking Protocols</b></td>
+        <td align="center"><b>🌐 Distributed Systems</b></td>
+      </tr>
+    </table>
+  </div>
+
+  <hr width="70%">
+</div>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true&theme=radical" alt="Carlos's GitHub stats" />
+  </a>
+</p>
 
 ## Contact me
 
