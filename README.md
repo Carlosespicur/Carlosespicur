@@ -1,4 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4AF626&background=0A0A0A00&width=435&lines=Carlos+Espinoza+Curto)](https://git.io/typing-svg)
+<p align="left">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4AF626&background=0A0A0A00&width=435&lines=Carlos+Espinoza+Curto"
+      media="(prefers-color-scheme: dark)" />
+    <!-- Light mode -->
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0066CC&background=FFFFFF00&width=435&lines=Carlos+Espinoza+Curto"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4AF626&background=0A0A0A00&width=435&lines=Carlos+Espinoza+Curto" alt="Typing SVG" />
+  </picture>
+</p>
+
 
 <div align="center">
   <h3>🧮 <b>Mathematician</b> and 💻 <b>Software Engineer</b></h3>
@@ -7,7 +20,7 @@
   <div align="center">
     <table>
       <tr>
-        <td align="center"><b>🔷 C++ Development</b></td>
+        <td align="center"><b>💻 C++ Development</b></td>
         <td align="center"><b>🔌 Networking Protocols</b></td>
         <td align="center"><b>🌐 Distributed Systems</b></td>
       </tr>
@@ -17,9 +30,20 @@
   <hr width="70%">
 </div>
 
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true&theme=default&title_color=4AF626&text_color=4AF626&border_color=4AF626&icon_color=4AF626&bg_color=0A0A0A00" alt="Carlos's GitHub stats" />
+    <picture>
+      <!-- Dark mode -->
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true&theme=default&title_color=4AF626&text_color=4AF626&border_color=4AF626&icon_color=4AF626&bg_color=0A0A0A00"
+        media="(prefers-color-scheme: dark)" />
+      <!-- Light mode -->
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true&theme=default&title_color=0066CC&text_color=0066CC&border_color=0066CC&icon_color=0066CC&bg_color=FFFFFF00"
+        media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true" alt="Carlos's GitHub stats" />
+    </picture>
   </a>
 </p>
 
