@@ -36,11 +36,11 @@
     <picture>
       <!-- Dark mode -->
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true&theme=default&title_color=4AF626&text_color=4AF626&border_color=4AF626&icon_color=4AF626&bg_color=0A0A0A00"
+        srcset="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true&theme=default&title_color=4AF626&text_color=4AF626&border_color=4AF626&icon_color=4AF626&bg_color=0A0A0A00&hide=stars"
         media="(prefers-color-scheme: dark)" />
       <!-- Light mode -->
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true&theme=default&title_color=0066CC&text_color=0066CC&border_color=0066CC&icon_color=0066CC&bg_color=FFFFFF00"
+        srcset="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true&theme=default&title_color=0066CC&text_color=0066CC&border_color=0066CC&icon_color=0066CC&bg_color=FFFFFF00&hide=stars"
         media="(prefers-color-scheme: light)" />
       <img src="https://github-readme-stats.vercel.app/api?username=carlosespicur&show_icons=true" alt="Carlos's GitHub stats" />
     </picture>
